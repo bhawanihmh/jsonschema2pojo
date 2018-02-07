@@ -25,7 +25,7 @@
 				<artifactId>jsonschema2pojo-maven-plugin</artifactId>
 				<version>0.4.37</version>
 				<configuration>
-					<sourceDirectory>${basedir}/src/main/resources/schema/aPoints</sourceDirectory>
+					<sourceDirectory>${basedir}/src/main/resources/schema</sourceDirectory>
 					<targetPackage>com.bhawani.aPoints</targetPackage>
 					<includeJsr303Annotations>true</includeJsr303Annotations>
 					<includeHashcodeAndEquals>true</includeHashcodeAndEquals> 
