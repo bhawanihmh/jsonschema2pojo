@@ -2,6 +2,7 @@
 Generate POJO from JSON including validation in maven pom file
 
 ## pom.xml
+
 <dependencies>
 		<dependency>
 			<groupId>commons-lang</groupId>
